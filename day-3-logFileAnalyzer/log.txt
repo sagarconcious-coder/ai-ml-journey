@@ -1,0 +1,5 @@
+ERROR: Database failed
+INFO: User logged in
+WARNING: Low memory
+ERROR: Timeout occurred
+INFO: Request completed

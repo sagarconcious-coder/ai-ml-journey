@@ -1,0 +1,5 @@
+Total lines: 5
+Errors: 2
+Warnings: 1
+Info: 2
+    
